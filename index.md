@@ -1,1 +1,4 @@
-# This is my website
+---
+title: Home page
+---
+Welcome to my website
